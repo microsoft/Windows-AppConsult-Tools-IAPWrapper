@@ -1,0 +1,14 @@
+D:\Projects\IAPWrapper\WpfDotNet46\bin\x64\Debug\WpfDotNet46.exe.config
+D:\Projects\IAPWrapper\WpfDotNet46\bin\x64\Debug\WpfDotNet46.exe
+D:\Projects\IAPWrapper\WpfDotNet46\bin\x64\Debug\WpfDotNet46.pdb
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.csprojResolveAssemblyReference.cache
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\MainWindow.g.cs
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\App.g.cs
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46_MarkupCompile.cache
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46_MarkupCompile.lref
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\MainWindow.baml
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.g.resources
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.Properties.Resources.resources
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.csproj.GenerateResource.Cache
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.exe
+D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.pdb

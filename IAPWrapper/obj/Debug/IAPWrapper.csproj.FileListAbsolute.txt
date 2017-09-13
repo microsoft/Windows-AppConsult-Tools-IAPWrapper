@@ -1,0 +1,7 @@
+d:\projects\IAPWrapper\IAPWrapper\bin\Debug\IAPWrapper.dll
+d:\projects\IAPWrapper\IAPWrapper\bin\Debug\IAPWrapper.pdb
+d:\projects\IAPWrapper\IAPWrapper\bin\Debug\System.Runtime.WindowsRuntime.dll
+d:\projects\IAPWrapper\IAPWrapper\bin\Debug\Windows.winmd
+d:\projects\IAPWrapper\IAPWrapper\bin\Debug\System.Runtime.WindowsRuntime.xml
+d:\projects\IAPWrapper\IAPWrapper\obj\Debug\IAPWrapper.dll
+d:\projects\IAPWrapper\IAPWrapper\obj\Debug\IAPWrapper.pdb

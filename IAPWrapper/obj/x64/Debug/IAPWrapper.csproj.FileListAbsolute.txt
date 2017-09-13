@@ -1,0 +1,8 @@
+D:\Projects\IAPWrapper\IAPWrapper\bin\x64\Debug\IAPWrapper.dll
+D:\Projects\IAPWrapper\IAPWrapper\bin\x64\Debug\IAPWrapper.pdb
+D:\Projects\IAPWrapper\IAPWrapper\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+D:\Projects\IAPWrapper\IAPWrapper\bin\x64\Debug\Windows.winmd
+D:\Projects\IAPWrapper\IAPWrapper\bin\x64\Debug\System.Runtime.WindowsRuntime.xml
+D:\Projects\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.dll
+D:\Projects\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.pdb
+D:\Projects\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.csprojResolveAssemblyReference.cache
