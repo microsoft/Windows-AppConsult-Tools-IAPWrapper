@@ -19,3 +19,5 @@ b. WPF app
 c. Win32 App in C++ 
 
 d. Unity App in old .Net version 
+
+Refer to: http://flwe.azurewebsites.net/2017/09/13/enable-in-app-product-purchases-for-desktop-bridge-converted-desktop-applications/
