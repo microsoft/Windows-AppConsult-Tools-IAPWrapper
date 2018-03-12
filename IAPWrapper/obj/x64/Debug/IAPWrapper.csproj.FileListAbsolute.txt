@@ -6,3 +6,11 @@ D:\Projects\IAPWrapper\IAPWrapper\bin\x64\Debug\System.Runtime.WindowsRuntime.xm
 D:\Projects\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.dll
 D:\Projects\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.pdb
 D:\Projects\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.csprojResolveAssemblyReference.cache
+D:\repos\IAPWrapper\IAPWrapper\bin\x64\Debug\IAPWrapper.dll
+D:\repos\IAPWrapper\IAPWrapper\bin\x64\Debug\IAPWrapper.pdb
+D:\repos\IAPWrapper\IAPWrapper\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+D:\repos\IAPWrapper\IAPWrapper\bin\x64\Debug\Windows.winmd
+D:\repos\IAPWrapper\IAPWrapper\bin\x64\Debug\System.Runtime.WindowsRuntime.xml
+D:\repos\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.csproj.CoreCompileInputs.cache
+D:\repos\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.dll
+D:\repos\IAPWrapper\IAPWrapper\obj\x64\Debug\IAPWrapper.pdb

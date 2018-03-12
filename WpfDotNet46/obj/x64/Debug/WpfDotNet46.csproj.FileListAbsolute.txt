@@ -12,3 +12,17 @@ D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.Properties.Resource
 D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.csproj.GenerateResource.Cache
 D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.exe
 D:\Projects\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.pdb
+D:\repos\IAPWrapper\WpfDotNet46\bin\x64\Debug\WpfDotNet46.exe.config
+D:\repos\IAPWrapper\WpfDotNet46\bin\x64\Debug\WpfDotNet46.exe
+D:\repos\IAPWrapper\WpfDotNet46\bin\x64\Debug\WpfDotNet46.pdb
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\MainWindow.g.cs
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\App.g.cs
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46_MarkupCompile.cache
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46_MarkupCompile.lref
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\MainWindow.baml
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.g.resources
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.Properties.Resources.resources
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.csproj.GenerateResource.Cache
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.csproj.CoreCompileInputs.cache
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.exe
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.pdb

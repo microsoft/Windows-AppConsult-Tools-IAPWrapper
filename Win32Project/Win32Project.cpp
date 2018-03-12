@@ -5,7 +5,7 @@
 #include "Win32Project.h"
 
 #define MAX_LOADSTRING 100
-typedef char* (WINAPI *PURCHASE)(char*);
+typedef char* (WINAPI *Purchase)(char*);
 // 全局变量: 
 HINSTANCE hInst;                                // 当前实例
 WCHAR szTitle[MAX_LOADSTRING];                  // 标题栏文本
@@ -175,8 +175,8 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
         if (LOWORD(wParam) == IDOK || LOWORD(wParam) == IDCANCEL)
         {
 			HINSTANCE hGetProcIDDLL = LoadLibrary(L"IAPWrapper.dll");
-			PURCHASE purchase = (PURCHASE)GetProcAddress(hGetProcIDDLL, "Purchase");
-			char *s = purchase("9pjp4testztd");
+			Purchase purchase = (Purchase)GetProcAddress(hGetProcIDDLL, "Purchase");
+			char *s = purchase("12345");
 			MessageBoxA(hDlg, s, "Return Info",0);
             EndDialog(hDlg, LOWORD(wParam));
             return (INT_PTR)TRUE;

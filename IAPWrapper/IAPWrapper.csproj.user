@@ -2,6 +2,6 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <StartAction>Program</StartAction>
-    <StartProgram>D:\Projects\IAPWrapper\WpfDotNet46\bin\x64\Debug\WpfDotNet46.exe</StartProgram>
+    <StartProgram>D:\repos\IAPWrapper\x64\Debug\Win32Project.exe</StartProgram>
   </PropertyGroup>
 </Project>

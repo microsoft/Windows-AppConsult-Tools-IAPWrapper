@@ -21,3 +21,12 @@ D:\Projects\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.Properties.Resour
 D:\Projects\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.csproj.GenerateResource.Cache
 D:\Projects\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.exe
 D:\Projects\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.pdb
+D:\repos\IAPWrapper\FormsDotNet2\bin\x64\Debug\FormsDotNet2.exe
+D:\repos\IAPWrapper\FormsDotNet2\bin\x64\Debug\FormsDotNet2.pdb
+D:\repos\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.Form1.resources
+D:\repos\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.Properties.Resources.resources
+D:\repos\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.csproj.GenerateResource.Cache
+D:\repos\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.csproj.CoreCompileInputs.cache
+D:\repos\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.exe
+D:\repos\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.pdb
+D:\repos\IAPWrapper\FormsDotNet2\obj\x64\Debug\FormsDotNet2.csprojResolveAssemblyReference.cache
