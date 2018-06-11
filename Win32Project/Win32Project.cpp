@@ -176,7 +176,7 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
         {
 			HINSTANCE hGetProcIDDLL = LoadLibrary(L"IAPWrapper.dll");
 			Purchase purchase = (Purchase)GetProcAddress(hGetProcIDDLL, "Purchase");
-			char *s = purchase("12345");
+			char *s = purchase("9P4PFT09KW32");
 			MessageBoxA(hDlg, s, "Return Info",0);
             EndDialog(hDlg, LOWORD(wParam));
             return (INT_PTR)TRUE;

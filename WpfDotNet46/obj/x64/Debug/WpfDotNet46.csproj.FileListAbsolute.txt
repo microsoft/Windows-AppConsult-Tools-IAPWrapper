@@ -26,3 +26,4 @@ D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.csproj.GenerateResourc
 D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.csproj.CoreCompileInputs.cache
 D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.exe
 D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.pdb
+D:\repos\IAPWrapper\WpfDotNet46\obj\x64\Debug\WpfDotNet46.csprojResolveAssemblyReference.cache
