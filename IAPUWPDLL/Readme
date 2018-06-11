@@ -4,7 +4,7 @@ To use it:
 1. Copy IAPUWPDLL.dll to IAPShow/Assets/Plugins/WSA
 2. Copy IAPUWPDLL.dll from Dummy project to IAPShow/Assets/Plugins
 3. Set the step 1 dll property as WSA only, UWP SDK, and Dotnet in Unity editor
-4. Set the step 1 dll property as Editor only in Unity editor
+4. Set the step 2 dll property as Editor only in Unity editor
 5. Build IAPShow application as XAML UWP.
 6. Refer code in IAPShow/UWPApp/App.XMAL.cs to ensure the IAP diaglog can show on XMAL thread properly
 7. Make sure the UWP build has linked to one Store App, otherwise its license content ID can be incorrect.
