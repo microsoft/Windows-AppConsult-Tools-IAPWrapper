@@ -37,8 +37,8 @@ namespace IAPUWPDLL
         {
             
 
-            string statusText = string.Empty;
-         if (storeContext == null)
+          string statusText = string.Empty;
+          if (storeContext == null)
                 storeContext = StoreContext.GetDefault();
 
           await  storeContext.GetAppLicenseAsync();
