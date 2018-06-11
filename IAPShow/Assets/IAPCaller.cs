@@ -15,6 +15,7 @@ using Windows.UI.Core;
 using Windows.UI.Popups;
 #endif
 
+/* Can call IAP in Win32 and UWP built properly */
 public class IAPCaller : MonoBehaviour
 {
 #if !NETFX_CORE
