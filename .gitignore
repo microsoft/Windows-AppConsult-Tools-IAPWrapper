@@ -7,6 +7,7 @@
 AppPackages/
 App/
 UWP/
+TestUWPApp/
 Assets/AssetStoreTools*
 .vs/
 /.vs/
